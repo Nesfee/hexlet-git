@@ -3,4 +3,5 @@ def sum(num1, num2):
     return suma
 
 
-print(suma)
+print(sum(2,3))
+
