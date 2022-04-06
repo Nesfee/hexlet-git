@@ -1,2 +1,3 @@
 print("Hello!!!")
-print("yes ofcause")
+#do evrything for yourself!!!
+
