@@ -7,11 +7,13 @@ def binary_sum(num1, num2):
             num2 += 1
     else:
         return num1, num2
-    return num1, num2
+    print(num1, num2)
 
+def main():
+    binary_sum(2, 6)
 
 if __name__ == "__main__":
-    print(binary_sum(2, 30))
+    main()
     
 
 
